@@ -31,9 +31,9 @@
 
                         <div class="row">
                             <div class="col">
-                                <label>Member ID</label>
+                                <label>Admin ID</label>
                               <div class="form-group">
-                                  <asp:TextBox CssClass="form-control" ID="TextBox1" runat="server" placeholder="Member ID"></asp:TextBox>
+                                  <asp:TextBox CssClass="form-control" ID="TextBox1" runat="server" placeholder="Admin ID"></asp:TextBox>
                               </div>
 
                                 <label>Password</label>
