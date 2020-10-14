@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="userlogin.aspx.cs" Inherits="ELibrary.userlogin" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="adminlogin.aspx.cs" Inherits="ELibrary.adminlogin" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
@@ -10,7 +10,7 @@
                         <div class="row">
                             <div class="col">
                                 <center>
-                                   <img width="150px" src="imgs/generaluser.png" />
+                                   <img width="150px" src="imgs/adminuser.png" />
                                 </center>
                             </div>
                         </div>
@@ -18,7 +18,7 @@
                          <div class="row">
                             <div class="col">
                                 <center>
-                                  <h3>Member Login</h3>
+                                  <h3>Admin Login</h3>
                                 </center>
                             </div>
                         </div>
@@ -44,11 +44,7 @@
                                 <div class="form-group">
                                     <asp:Button ID="Button1" class="btn btn-success btn-block btn-lg" runat="server" Text="Login" />
                                   </div>
-                                <a href="usersignup.aspx">
-                                <div class="form-group">
-                                    <input id="Button2" class="btn btn-info btn-block btn-lg" type="button" value="Sign Up" />
-                                  </div>
-                                    </a>
+                               
                             </div>
                         </div>
                     </div>
@@ -58,5 +54,4 @@
             </div>
         </div>
     </div>
-
 </asp:Content>

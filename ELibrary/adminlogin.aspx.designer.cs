@@ -10,7 +10,7 @@
 namespace ELibrary {
     
     
-    public partial class userlogin {
+    public partial class adminlogin {
         
         /// <summary>
         /// TextBox1 control.
