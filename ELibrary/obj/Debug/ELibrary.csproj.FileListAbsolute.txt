@@ -1,0 +1,6 @@
+E:\ELibrary\ELibrary\bin\ELibrary.dll.config
+E:\ELibrary\ELibrary\bin\ELibrary.dll
+E:\ELibrary\ELibrary\bin\ELibrary.pdb
+E:\ELibrary\ELibrary\obj\Debug\ELibrary.csprojResolveAssemblyReference.cache
+E:\ELibrary\ELibrary\obj\Debug\ELibrary.dll
+E:\ELibrary\ELibrary\obj\Debug\ELibrary.pdb
